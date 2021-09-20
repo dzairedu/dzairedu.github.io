@@ -1,14 +1,14 @@
 [
     {
         "ad_key": "home_banner_1",
-        "image_url": "https://play-lh.googleusercontent.com/8mgy1X5ReaiAZKcjgVIZdD-phN9eTOaZ0IXLJp6iDfxzfIhINFKlF-edvMKofFFI2JI",
-        "link_url": "https://www.jumia.com.ng/",
+        "image_url": "https://dzaireducation.github.io/ads.json/default-ads/large_banner.jpg",
+        "link_url": "https://m.me/dzairedu",
         "expiration_time": "1 day"
     },
     {
         "ad_key": "home_banner_2",
-        "image_url": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/netflix-movies-august-lead-1596483362.jpg",
-        "link_url": "https://www.jumia.dz/",
+        "image_url": "https://dzaireducation.github.io/ads.json/default-ads/large_banner.jpg",
+        "link_url": "https://m.me/dzairedu",
         "expiration_time": "2 days"
     },
     {
