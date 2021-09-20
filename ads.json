@@ -1,13 +1,13 @@
 [
     {
         "ad_key": "home_banner_1",
-        "image_url": "https://dzaireducation.github.io/ads.json/default-ads/large_banner.jpg",
+        "image_url": "https://dzaireducation.github.io/default-ads/large_banner.jpg",
         "link_url": "https://m.me/dzairedu",
         "expiration_time": "1 day"
     },
     {
         "ad_key": "home_banner_2",
-        "image_url": "https://dzaireducation.github.io/ads.json/default-ads/large_banner.jpg",
+        "image_url": "https://dzaireducation.github.io/default-ads/large_banner.jpg",
         "link_url": "https://m.me/dzairedu",
         "expiration_time": "2 days"
     },
