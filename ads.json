@@ -1,14 +1,14 @@
 [
     {
-        "ad_key": "",
+        "ad_key": "0",
         "image_url": "https://play-lh.googleusercontent.com/8mgy1X5ReaiAZKcjgVIZdD-phN9eTOaZ0IXLJp6iDfxzfIhINFKlF-edvMKofFFI2JI",
-        "link_url": "",
-        "expiration_time": ""
+        "link_url": "https://www.jumia.com.ng/",
+        "expiration_time": "1 day"
     },
     {
-        "ad_key": "",
-        "image_url": "https://play-lh.googleusercontent.com/8mgy1X5ReaiAZKcjgVIZdD-phN9eTOaZ0IXLJp6iDfxzfIhINFKlF-edvMKofFFI2JI",
-        "link_url": "",
-        "expiration_time": ""
+        "ad_key": "1",
+        "image_url": "https://group-live.jumia.is/images/press/5by3/media-kit.png",
+        "link_url": "https://www.jumia.dz/",
+        "expiration_time": "2 days"
     }
 ]
