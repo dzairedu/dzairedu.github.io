@@ -1,0 +1,37 @@
+{
+    "app_version": 10600,
+    "defaut-ads": [
+        {
+            "ad_key": "home_banner_1",
+            "image_url": "https://dzaireducation.github.io/default-ads/large_banner.jpg",
+            "link_url": "https://m.me/dzairedu"
+        },
+        {
+            "ad_key": "home_banner_2",
+            "image_url": "https://dzaireducation.github.io/default-ads/large_banner.jpg",
+            "link_url": "https://m.me/dzairedu"
+        },
+        {
+            "ad_key": "exam_banner",
+            "image_url": "https://dzaireducation.github.io/default-ads/small_banner.jpg",
+            "link_url": "https://m.me/dzairedu"
+        }
+    ],
+    "live-ads": [
+        {
+            "ad_key": "home_banner_1",
+            "image_url": "https://dzaireducation.github.io/default-ads/large_banner.jpg",
+            "link_url": "https://m.me/dzairedu"
+        },
+        {
+            "ad_key": "home_banner_2",
+            "image_url": "https://dzaireducation.github.io/default-ads/large_banner.jpg",
+            "link_url": "https://m.me/dzairedu"
+        },
+        {
+            "ad_key": "exam_banner",
+            "image_url": "https://dzaireducation.github.io/default-ads/small_banner.jpg",
+            "link_url": "https://m.me/dzairedu"
+        }
+    ]
+}
