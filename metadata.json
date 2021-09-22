@@ -17,21 +17,5 @@
             "link_url": "https://m.me/dzairedu"
         }
     ],
-    "live-ads": [
-        {
-            "ad_key": "home_banner_1",
-            "image_url": "https://play-lh.googleusercontent.com/0rgPYj0GwZ6txpYZrzoMdhwzqg7vY6C9B-Ol7jlaz-Ox2rgpD4Tr82ZgDqkirrEohbGm=w412-h220-rw",
-            "link_url": "https://m.me/dzairedu"
-        },
-        {
-            "ad_key": "home_banner_2",
-            "image_url": "https://dzaireducation.github.io/default-ads/large_banner.jpg",
-            "link_url": "https://m.me/dzairedu"
-        },
-        {
-            "ad_key": "exam_banner",
-            "image_url": "https://dzaireducation.github.io/default-ads/small_banner.jpg",
-            "link_url": "https://m.me/dzairedu"
-        }
-    ]
+    "live-ads": []
 }
