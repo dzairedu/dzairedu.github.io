@@ -3,16 +3,16 @@
     "live_ads": {
         "large_banner": [
             {
-                "image_url": "https://dzaireducation.github.io/default-ads/large_banner.jpg",
-                "link_url": "https://m.me/dzairedu"
-            },
-            {
                 "image_url": "https://fdn.gsmarena.com/imgroot/news/20/10/netflix-india-free-weekend/-1200/gsmarena_001.jpg",
                 "link_url": "https://netflix.com"
             },
             {
                 "image_url": "https://techtimesafrica.net/wp-content/uploads/2020/11/Jumia.jpg",
                 "link_url": "https://www.jumia.com/"
+            },
+            {
+                "image_url": "https://dzaireducation.github.io/default-ads/large_banner.jpg",
+                "link_url": "https://m.me/dzairedu"
             }
         ],
         "small_banner": [
