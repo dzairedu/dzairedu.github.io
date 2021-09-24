@@ -1,25 +1,32 @@
 {
     "app_version": 10600,
+    "ads_paused": false,
+    "default_ads": {
+        "large_banner_1": {
+            "image_url": "https://dzaireducation.github.io/default-ads/large_banner.jpg",
+            "link_url": "https://m.me/dzairedu"
+        },
+        "large_banner_2": {
+            "image_url": "https://dzaireducation.github.io/default-ads/large_banner.jpg",
+            "link_url": "https://m.me/dzairedu"
+        },
+        "small_banner": {
+            "image_url": "https://dzaireducation.github.io/default-ads/small_banner.jpg",
+            "link_url": "https://m.me/dzairedu"
+        }
+    },
     "live_ads": {
-        "large_banner": [
-            {
-                "image_url": "https://dzaireducation.github.io/live-ads/paphorizon.jpg",
-                "link_url": "https://www.instagram.com/pap.horizon/"
-            },
-            {
-                "image_url": "https://dzaireducation.github.io/live-ads/ayssa_global.jpg",
-                "link_url": "https://www.instagram.com/ayssa_global/"
-            },
-            {
-                "image_url": "https://dzaireducation.github.io/default-ads/large_banner.jpg",
-                "link_url": "https://m.me/dzairedu"
-            }
-        ],
-        "small_banner": [
-            {
-                "image_url": "https://dzaireducation.github.io/default-ads/small_banner.jpg",
-                "link_url": "https://m.me/dzairedu"
-            }
-        ]
+        "large_banner_1": {
+            "image_url": "https://dzaireducation.github.io/live-ads/paphorizon.jpg",
+            "link_url": "https://www.instagram.com/pap.horizon/"
+        },
+        "large_banner_2": {
+            "image_url": "https://dzaireducation.github.io/live-ads/ayssa_global.jpg",
+            "link_url": "https://www.instagram.com/ayssa_global/"
+        },
+        "small_banner": {
+            "image_url": "https://dzaireducation.github.io/default-ads/small_banner.jpg",
+            "link_url": "https://m.me/dzairedu"
+        }
     }
 }
