@@ -1,6 +1,6 @@
 {
     "app_version": 10600,
-    "ads_paused": false,
+    "ads_paused": true,
     "default_ads": {
         "large_banner_1": {
             "image_url": "https://dzaireducation.github.io/default-ads-assets/large_banner.jpg",
