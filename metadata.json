@@ -10,7 +10,10 @@
             "image_url": "https://dzaireducation.github.io/default-ads-assets/large_banner.jpg",
             "link_url": "https://m.me/dzairedu"
         },
-        "small_banner": {}
+        "small_banner": {
+            "image_url": "https://dzaireducation.github.io/default-ads-assets/small_banner.jpg",
+            "link_url": "https://m.me/dzairedu"
+        }
     },
     "live_ads": {
         "large_banner_1": {},
