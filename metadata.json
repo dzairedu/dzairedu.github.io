@@ -16,14 +16,8 @@
         }
     },
     "live_ads": {
-        "large_banner_1": {
-            "image_url": "https://dzaireducation.github.io/live-ads-assets/ayssa_global.jpg",
-            "link_url": "https://www.instagram.com/ayssa_global/"
-        },
-        "large_banner_2": {
-            "image_url": "https://dzaireducation.github.io/live-ads-assets/paphorizon.jpg",
-            "link_url": "https://www.instagram.com/pap.horizon/"
-        },
+        "large_banner_1": {},
+        "large_banner_2": {},
         "small_banner": {}
     }
 }
