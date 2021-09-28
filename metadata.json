@@ -20,14 +20,8 @@
     },
     "live_ads": {
         "large_banner_1": {
-            "ad_name": "Ayssa Global",
-            "image_url": "https://dzaireducation.github.io/live-ads-assets/ayssa_global.jpg",
-            "link_url": "https://www.instagram.com/ayssa_global/"
         },
         "large_banner_2": {
-            "ad_name": "Pap Horizon",
-            "image_url": "https://dzaireducation.github.io/live-ads-assets/paphorizon.jpg",
-            "link_url": "https://www.instagram.com/pap.horizon/"
         },
         "small_banner": {}
     }
