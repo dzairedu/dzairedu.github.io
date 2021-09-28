@@ -1,6 +1,6 @@
 {
     "app_version": 10600,
-    "ads_paused": true,
+    "ads_paused": false,
     "default_ads": {
         "large_banner_1": {
             "ad_name": "Dzair Education",
